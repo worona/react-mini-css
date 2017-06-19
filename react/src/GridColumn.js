@@ -58,3 +58,5 @@ function GridColumn (props){
 		'div',outProps, outProps.children
 	);
 }
+
+export default GridColumn;

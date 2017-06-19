@@ -12,3 +12,5 @@ function Toast(props){
 		'span',outProps, outProps.children
 	);
 }
+
+export default Toast;

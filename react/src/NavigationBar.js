@@ -31,3 +31,5 @@ function NavigationBar(props){
 		'nav',outProps, childrenToRender
 	);
 }
+
+export default NavigationBar;

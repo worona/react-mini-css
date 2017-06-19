@@ -12,3 +12,5 @@ function GridContainer (props){
 		'div',outProps, outProps.children
 	);
 }
+
+export default GridContainer;

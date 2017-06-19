@@ -2,8 +2,9 @@
   "name": "mini.css-react",
   "version": "1.0.2",
   "description": "Mini.css components built with React.",
-  "main": "dist/mini.css-react.js",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "babel src --out-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,7 +16,7 @@
     "react",
     "component",
     "library",
-		"framework"
+    "framework"
   ],
   "author": "Angelos Chalaris (chalarangelo@gmail.com)",
   "license": "MIT",
@@ -23,9 +24,13 @@
     "url": "https://github.com/Chalarangelo/react-mini.css/issues"
   },
   "homepage": "https://chalarangelo.github.io/react-mini.css/",
-	"peerDependencies": {
-		"mini.css": "^2.3.0",
+  "peerDependencies": {
+    "mini.css": "^2.3.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
-	}
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
 }

@@ -91,3 +91,5 @@ function Tabs(props){
 		'div',outProps,childrenToRender
 	);
 }
+
+export { Tab, Tabs };

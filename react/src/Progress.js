@@ -26,3 +26,5 @@ function Progress(props) {
 		'progress', outProps, outProps.children
 	);
 }
+
+export default Progress;

@@ -73,3 +73,5 @@ function Modal(props){
 		'div',outProps, childrenToRender
 	);
 }
+
+export default Modal;

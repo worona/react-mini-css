@@ -65,3 +65,5 @@ function Drawer(props){
 		'div',{},childrenToRender
 	);
 }
+
+export { Drawer, DrawerToggle };

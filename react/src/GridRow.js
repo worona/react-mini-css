@@ -33,3 +33,5 @@ function GridRow (props){
 		'div',outProps, outProps.children
 	);
 }
+
+export default GridRow;
