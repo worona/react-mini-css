@@ -18,3 +18,5 @@ function Close (props){
 		elementType, outProps, outProps.children
 	);
 }
+
+export default Close;

@@ -22,3 +22,5 @@ function SpinnerDonut (props){
 		elementType, outProps, outProps.children
 	);
 }
+
+export default SpinnerDonut;

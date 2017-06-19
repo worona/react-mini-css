@@ -33,3 +33,5 @@ function Image (props){
 		'figure', outProps, outProps.children
 	);
 }
+
+export default Image;

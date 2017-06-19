@@ -36,3 +36,5 @@ function FileUpload (props){
 		'div', {className : outProps.className+' '+inputGroupClassName}, childrenToRender
 	);
 }
+
+export default FileUpload;

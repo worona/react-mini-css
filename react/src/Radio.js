@@ -35,3 +35,5 @@ function Radio (props){
 		'div', {className : outProps.className+' '+inputGroupClassName}, childrenToRender
 	);
 }
+
+export default Radio;

@@ -36,3 +36,5 @@ function Button(props){
 		'button',outProps, outProps.children
 	);
 }
+
+export default Button;

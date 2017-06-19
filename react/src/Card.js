@@ -22,3 +22,5 @@ function Section(props){
 		'div',outProps, outProps.children
 	);
 }
+
+export { Card, Section };

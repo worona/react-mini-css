@@ -28,3 +28,5 @@ function Breadcrumbs(props){
 		'ul',outProps, childrenToRender
 	);
 }
+
+export default Breadcrumbs;

@@ -15,3 +15,5 @@ function Footer(props){
 		'footer',outProps, outProps.children
 	);
 }
+
+export default Footer;

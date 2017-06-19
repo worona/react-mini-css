@@ -35,3 +35,5 @@ function Checkbox (props){
 		'div', {className : outProps.className+' '+inputGroupClassName}, childrenToRender
 	);
 }
+
+export default Checkbox;

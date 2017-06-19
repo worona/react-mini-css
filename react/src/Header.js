@@ -48,3 +48,5 @@ function Header(props){
 		'header',outProps, childrenToRender
 	);
 }
+
+export default Header;

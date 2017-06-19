@@ -20,3 +20,5 @@ function Tooltip(props) {
 		'span',outProps, outProps.children
 	);
 }
+
+export default Tooltip;
