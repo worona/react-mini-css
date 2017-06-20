@@ -8,7 +8,7 @@ export { default as FileUpload } from './FileUpload';
 export { default as Footer } from './Footer';
 export { default as GridColumn } from './GridColumn';
 export { default as GridContainer } from './GridContainer';
-export { default as GriRow } from './GridRow';
+export { default as GridRow } from './GridRow';
 export { default as Header } from './Header';
 export { default as Image } from './Image';
 export { default as InputGroup } from './InputGroup';
