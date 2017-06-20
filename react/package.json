@@ -1,6 +1,6 @@
 {
   "name": "mcr-worona",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Mini.css components built with React.",
   "main": "dist/index.js",
   "scripts": {
